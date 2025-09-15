@@ -1,3 +1,12 @@
+<div align="center">
+
+  <a href="https://tryhackme.com/p/MithulAttacker">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MithulAttacker.png" alt="TryHackMe" width="500px">
+  </a>
+
+</div>
+
+
 ## 👋 Hey there, I'm Mithul Kumaran R
 
 **Cyber Security Trainee** | Red Teaming Learner | CTF Competitor | Dev with a Hacker Mindset  
@@ -120,4 +129,11 @@
 ---
 
 > 💬 “Stay curious, stay secure.”
+
+
+
+
+
+---
+
 
